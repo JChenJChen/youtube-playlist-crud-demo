@@ -1,0 +1,8 @@
+quickstart.py
+test.py
+client_id.json
+credentials.json
+client_secret*.json
+youtube-playlist-gen*.json
+poetry.lock
+token.pickle
